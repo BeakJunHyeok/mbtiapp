@@ -44,6 +44,9 @@ const Desc = styled.div`
   margin: 10px 0;
   font-size: 20px;
   text-align: center;
+  background: crimson;
+  padding: 8px 14px;
+  border-radius: 8px;
 `;
 
 const Result = () => {
